@@ -36,3 +36,15 @@
 ## 🔗 Where to Find Me  
 <p><a href="https://github.com/abdulHasib2030" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://x.com/AbdulHasib72681" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/abdul-hasib/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@abdulhasib2030" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
+
+##  📈 GitHub Stats  
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulHasib2030&show_icons=true&include_all_commits=true&theme=radical" height="150" alt="Abdul Hasib github stats" style="margin-right: 20px;"  />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabbie&layout=compact&theme=radical" alt="Abdul Hasib top languages" />
+</div>
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulHasib2030&theme=github_dark)
+
+
+
